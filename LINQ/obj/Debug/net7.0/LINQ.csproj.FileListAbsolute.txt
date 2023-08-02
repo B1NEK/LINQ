@@ -1,0 +1,15 @@
+/Users/petrbinek/Projects/LINQ/LINQ/bin/Debug/net7.0/LINQ
+/Users/petrbinek/Projects/LINQ/LINQ/bin/Debug/net7.0/LINQ.deps.json
+/Users/petrbinek/Projects/LINQ/LINQ/bin/Debug/net7.0/LINQ.runtimeconfig.json
+/Users/petrbinek/Projects/LINQ/LINQ/bin/Debug/net7.0/LINQ.dll
+/Users/petrbinek/Projects/LINQ/LINQ/bin/Debug/net7.0/LINQ.pdb
+/Users/petrbinek/Projects/LINQ/LINQ/obj/Debug/net7.0/LINQ.csproj.AssemblyReference.cache
+/Users/petrbinek/Projects/LINQ/LINQ/obj/Debug/net7.0/LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrbinek/Projects/LINQ/LINQ/obj/Debug/net7.0/LINQ.AssemblyInfoInputs.cache
+/Users/petrbinek/Projects/LINQ/LINQ/obj/Debug/net7.0/LINQ.AssemblyInfo.cs
+/Users/petrbinek/Projects/LINQ/LINQ/obj/Debug/net7.0/LINQ.csproj.CoreCompileInputs.cache
+/Users/petrbinek/Projects/LINQ/LINQ/obj/Debug/net7.0/LINQ.dll
+/Users/petrbinek/Projects/LINQ/LINQ/obj/Debug/net7.0/refint/LINQ.dll
+/Users/petrbinek/Projects/LINQ/LINQ/obj/Debug/net7.0/LINQ.pdb
+/Users/petrbinek/Projects/LINQ/LINQ/obj/Debug/net7.0/LINQ.genruntimeconfig.cache
+/Users/petrbinek/Projects/LINQ/LINQ/obj/Debug/net7.0/ref/LINQ.dll
